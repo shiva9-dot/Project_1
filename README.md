@@ -10,7 +10,7 @@ In the repository, there are five main focal points:
 6. Two zipfiles containing stock datasets
 
 ## Presentation
-- Check out our presentation at this link: [STOCKSIFT Presentation](https://www.canva.com/design/DAFxeHRpI5c/hGyI2nRsmO2C-EnDP72z9Q/view?utm_content=DAFxeHRpI5c&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+- Check out a presentation link for more context: [STOCKSIFT Presentation](https://www.canva.com/design/DAFxeHRpI5c/hGyI2nRsmO2C-EnDP72z9Q/view?utm_content=DAFxeHRpI5c&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 
 ## Datasets
 - **SP500 Data** was imported from `yfinance`. All other datasets are in the Resources folder.
