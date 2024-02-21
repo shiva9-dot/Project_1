@@ -1,7 +1,7 @@
 # STOCKSIFT Walkthrough
 
 **STOCKSIFT** is a market denoiser that allows early-stage investors a little peace of mind when making purchase decisions.
-In the repository, there are five main focal points:
+In the repository, there are a few main focal points:
 1. **The Resources Folder**: Important files and datasets that make it all run.
 2. **Final Visualization Notebook**: A user-friendly visualizer that pulls data from the other notebooks.
 3. **Risk_Evaluation Notebook**: Evaluate the risk of stocks on the market by beta, Value At Risk, volatility, and cumulative return—results in a list of 10 stocks based on user preferences.
